@@ -1,5 +1,11 @@
 LISTA DE COLABORADORES 
 
+<<<<<<< HEAD
 NOME: 
 EMAIL : 
 NOTA QUE DESEJA NESSA PROVA ( 0 A 10 ) : 
+=======
+NOME: Nicolas Vinicius Fernandes de Sousa
+EMAIL : 00001113786887sp@al.educacao.sp.gov.br
+NOTA QUE DESEJA NESSA PROVA ( 0 A 10 ) : 8
+>>>>>>> origin/master
